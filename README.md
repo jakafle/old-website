@@ -1,1 +1,1 @@
-Personal site where I might occasionally post.
+Site where I might occasionally post.
