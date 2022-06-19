@@ -1,1 +1,1 @@
-Site where I might occasionally post.
+Implementation of my website. Currently, I have used the html and css style implemented in the page [To Fork or Not to Fork](https://mako.cc/writing/to_fork_or_not_to_fork.html). Will update the website soon with more changes.
