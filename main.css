@@ -11,8 +11,8 @@ body {
     margin: auto;
     max-width: 42em;
 
-    /*font-family: 'EB Garamond', serif;*/
-    font-family: 'Ubuntu', sans-serif;
+    /*font-family: 'Ubuntu', sans-serif;*/
+    font-family: 'EB Garamond', serif;
 
     text-rendering: optimizeLegibility;
     -moz-font-feature-settings: 'kern=1';
@@ -33,7 +33,7 @@ body {
 }
 
 html {
-  font-size: 80%;
+  font-size: 100%;
   overflow-y: scroll;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
