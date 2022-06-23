@@ -1,17 +1,9 @@
-/*@media all {body {font-size: 130%;}}
+@media all {body {font-size: 130%;}}
 @media all and (max-width: 1000px){body {font-size: 130%;}}
 @media all and (max-width: 850px){body {font-size: 120%;}}
 @media all and (max-width: 700px){body {font-size: 110%;}}
 @media all and (max-width: 550px){body {font-size: 100%;}}
 @media all and (max-width: 420px){body {font-size: 90%;}}
-*/
-
-@media all {body {font-size: 150%;}}
-@media all and (max-width: 1000px){body {font-size: 150%;}}
-@media all and (max-width: 850px){body {font-size: 130%;}}
-@media all and (max-width: 700px){body {font-size: 120%;}}
-@media all and (max-width: 550px){body {font-size: 110%;}}
-@media all and (max-width: 420px){body {font-size: 100%;}}
 
 body {
     line-height: 1.7em;
