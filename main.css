@@ -11,8 +11,9 @@ body {
     margin: auto;
     max-width: 42em;
 
-    /*font-family: 'Ubuntu', sans-serif;*/
-    font-family: 'EB Garamond', serif;
+    /*font-family: 'Ubuntu', sans-serif;
+    font-family: 'EB Garamond', serif;*/
+    font-family: 'Noto Serif', serif;
 
     text-rendering: optimizeLegibility;
     -moz-font-feature-settings: 'kern=1';
